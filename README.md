@@ -43,3 +43,7 @@ onChange={this._onChange}
 | requiresCVC        | PropTypes.bool   | Boolean to display CVC field                                                          |
 | requiresEmail      | PropTypes.bool   | Boolean to display emailfield                                                         |
 | requiresPostalCode | PropTypes.bool   | Boolean to display postal code field                                                  |
+
+# Publication
+
+https://www.npmjs.com/package/react-native-payment-card
